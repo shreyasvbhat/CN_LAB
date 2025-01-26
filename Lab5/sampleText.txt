@@ -1,0 +1,1 @@
+This is a sample text used for testing the socket program which uses TCP protocol.
